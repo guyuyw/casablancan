@@ -222,7 +222,10 @@
         <mxCell id="XoiqX6V9MMiwxOYiTmVM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-47" target="XoiqX6V9MMiwxOYiTmVM-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yhZVjly_XVNJ5S8H_ek6-47" value="TV Open&lt;div&gt;Sleeping&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-47" target="4QU-CMID9YgoORd0-7aX-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhZVjly_XVNJ5S8H_ek6-47" value="地上出现烟雾" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1670" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-49" target="yhZVjly_XVNJ5S8H_ek6-51" edge="1">
@@ -282,19 +285,28 @@
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-60" target="yhZVjly_XVNJ5S8H_ek6-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yhZVjly_XVNJ5S8H_ek6-60" value="男孩单独学习" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-60" target="4QU-CMID9YgoORd0-7aX-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhZVjly_XVNJ5S8H_ek6-60" value="男孩单独学习" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1270" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-62" target="yhZVjly_XVNJ5S8H_ek6-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yhZVjly_XVNJ5S8H_ek6-62" value="男孩单独学习" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-62" target="4QU-CMID9YgoORd0-7aX-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhZVjly_XVNJ5S8H_ek6-62" value="男孩单独学习" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1470" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XoiqX6V9MMiwxOYiTmVM-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-63" target="XoiqX6V9MMiwxOYiTmVM-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yhZVjly_XVNJ5S8H_ek6-63" value="男孩单独学习" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-63" target="4QU-CMID9YgoORd0-7aX-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhZVjly_XVNJ5S8H_ek6-63" value="男孩单独学习" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1670" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-81" target="yhZVjly_XVNJ5S8H_ek6-83" edge="1">
@@ -345,7 +357,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-94" target="4QU-CMID9YgoORd0-7aX-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yhZVjly_XVNJ5S8H_ek6-94" value="灵异直播,&lt;div&gt;窗外有东西坠落&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="yhZVjly_XVNJ5S8H_ek6-94" value="灵异直播,&lt;div&gt;窗外有东西坠落&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1670" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-98" target="yhZVjly_XVNJ5S8H_ek6-100" edge="1">
@@ -439,13 +451,13 @@
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-128" target="yhZVjly_XVNJ5S8H_ek6-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yhZVjly_XVNJ5S8H_ek6-128" value="没有人&lt;div&gt;（被子和婴儿车内的毯子花色一样，窗台上钢丝有痕迹）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="yhZVjly_XVNJ5S8H_ek6-128" value="煮开的热水" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="270" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-130" target="yhZVjly_XVNJ5S8H_ek6-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yhZVjly_XVNJ5S8H_ek6-130" value="开始停电" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="yhZVjly_XVNJ5S8H_ek6-130" value="煮开的热水，开始停电" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-132" target="yhZVjly_XVNJ5S8H_ek6-134" edge="1">
@@ -829,13 +841,16 @@
         <mxCell id="XoiqX6V9MMiwxOYiTmVM-35" value="0:08" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1890" y="18" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XoiqX6V9MMiwxOYiTmVM-36" value="nanny come&lt;div&gt;righting the camera&lt;/div&gt;&lt;div&gt;baby disappear&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XoiqX6V9MMiwxOYiTmVM-36" target="4QU-CMID9YgoORd0-7aX-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoiqX6V9MMiwxOYiTmVM-36" value="nanny come&lt;div&gt;righting the camera&lt;/div&gt;&lt;div&gt;baby disappear&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1855" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XoiqX6V9MMiwxOYiTmVM-37" value="wakeup and goto&lt;div&gt;baby room&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="XoiqX6V9MMiwxOYiTmVM-37" value="TV Open&lt;div&gt;Sleeping&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1855" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XoiqX6V9MMiwxOYiTmVM-38" value="男孩单独学习" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="XoiqX6V9MMiwxOYiTmVM-38" value="男孩单独学习" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1855" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XoiqX6V9MMiwxOYiTmVM-39" value="灵异直播" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -960,6 +975,27 @@
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-32" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;窗外的黑影是什么？&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;花盆&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;婴儿&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;乌云&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;练习册&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1645" y="810" width="170" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-36" target="4QU-CMID9YgoORd0-7aX-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-36" value="烟雾" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-38" value="烟雾哪儿来的？&lt;div&gt;1.催眠药粉&lt;/div&gt;&lt;div&gt;2.着火了&lt;/div&gt;&lt;div&gt;3.窗外的雾气&lt;/div&gt;&lt;div&gt;4.有人在洗澡&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="190" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-40" value="婴儿不见了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2028" y="73" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-42" value="为什么不在停电的时候作案？&lt;div&gt;停电的时候很多人出来查看，无法作案&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="300" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-43" value="老妈不见了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="565" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-47" value="疑问点解释" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
