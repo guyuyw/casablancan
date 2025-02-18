@@ -105,8 +105,8 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-21" target="4QU-CMID9YgoORd0-7aX-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="150" />
-              <mxPoint x="548" y="150" />
+              <mxPoint x="730" y="170" />
+              <mxPoint x="548" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,7 +119,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-23" target="4QU-CMID9YgoORd0-7aX-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="180" />
+              <mxPoint x="930" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -245,7 +245,7 @@
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-51" target="yhZVjly_XVNJ5S8H_ek6-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-51" target="4QU-CMID9YgoORd0-7aX-57">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-51" target="4QU-CMID9YgoORd0-7aX-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-51" value="开始停电" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -254,14 +254,8 @@
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=light-dark(#000000, #446e2c);" parent="1" source="yhZVjly_XVNJ5S8H_ek6-54" target="yhZVjly_XVNJ5S8H_ek6-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-54" target="4QU-CMID9YgoORd0-7aX-57">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="670" />
-              <mxPoint x="740" y="670" />
-              <mxPoint x="740" y="603" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-54" target="4QU-CMID9YgoORd0-7aX-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-54" value="停电" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="670" y="730" width="120" height="60" as="geometry" />
@@ -269,13 +263,8 @@
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-56" target="yhZVjly_XVNJ5S8H_ek6-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-56" target="4QU-CMID9YgoORd0-7aX-57">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="930" y="640" />
-              <mxPoint x="695" y="640" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-56" target="4QU-CMID9YgoORd0-7aX-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-56" value="停电" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="870" y="730" width="120" height="60" as="geometry" />
@@ -624,7 +613,7 @@
         <mxCell id="oFv0J-Q5Eni3K3uzDPN7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oFv0J-Q5Eni3K3uzDPN7-17" target="oFv0J-Q5Eni3K3uzDPN7-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oFv0J-Q5Eni3K3uzDPN7-17" target="4QU-CMID9YgoORd0-7aX-95">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oFv0J-Q5Eni3K3uzDPN7-17" target="4QU-CMID9YgoORd0-7aX-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oFv0J-Q5Eni3K3uzDPN7-17" value="nobody" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -674,7 +663,7 @@
             <Array as="points">
               <mxPoint x="1130" y="2702" />
               <mxPoint x="1220" y="2702" />
-              <mxPoint x="1220" y="2387" />
+              <mxPoint x="1220" y="2447" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1034,7 +1023,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-2" target="4QU-CMID9YgoORd0-7aX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-2" value="哄婴儿" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-2" value="②哄婴儿" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="160" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-6" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;女子与婴儿的关系&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;护工&lt;/li&gt;&lt;li&gt;外婆&lt;/li&gt;&lt;li&gt;妈妈&lt;/li&gt;&lt;li style=&quot;&quot;&gt;后妈&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -1043,16 +1032,16 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-8" target="4QU-CMID9YgoORd0-7aX-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-8" value="忽然&lt;div&gt;停电&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-8" value="③忽然&lt;div&gt;停电&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="505" y="170" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-9" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;为什么会停电？&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;线路老化&lt;/li&gt;&lt;li&gt;楼房渗水&lt;/li&gt;&lt;li&gt;意外短路&lt;/li&gt;&lt;li&gt;恶意破坏&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="400" y="255" width="170" height="90" as="geometry" />
+          <mxGeometry x="445" y="255" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-14" target="4QU-CMID9YgoORd0-7aX-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-14" value="倒计时牌子" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-14" value="①倒计时牌子" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="-110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-16" value="&lt;ul&gt;&lt;li&gt;婴儿出生多久了&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;不到一个月&lt;/li&gt;&lt;li&gt;一百天左右&lt;/li&gt;&lt;li&gt;三个月&lt;/li&gt;&lt;li style=&quot;&quot;&gt;一岁多&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -1061,7 +1050,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-18" target="4QU-CMID9YgoORd0-7aX-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-18" value="女人离开房间" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-18" value="⑤女人离开房间" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="485" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-19" value="&lt;ul&gt;&lt;li&gt;女人去干什么了？&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;拿快递&lt;/li&gt;&lt;li&gt;上厕所&lt;/li&gt;&lt;li&gt;哄孩子&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -1070,8 +1059,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-19" target="4QU-CMID9YgoORd0-7aX-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="150" />
-              <mxPoint x="413" y="150" />
+              <mxPoint x="413" y="120" />
               <mxPoint x="413" y="190" />
             </Array>
           </mxGeometry>
@@ -1079,7 +1067,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-30" target="4QU-CMID9YgoORd0-7aX-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-30" value="窗外的黑影是什么？" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-30" value="⑧&lt;span style=&quot;background-color: transparent;&quot;&gt;窗外的黑影是什么？&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="960" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-32" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;窗外的黑影是什么？&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;花盆&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;婴儿&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;乌云&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;练习册&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -1088,78 +1076,89 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-36" target="4QU-CMID9YgoORd0-7aX-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-36" value="烟雾" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-36" value="⑥烟雾" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-38" value="烟雾哪儿来的？&lt;div&gt;1.催眠药粉&lt;/div&gt;&lt;div&gt;2.着火了&lt;/div&gt;&lt;div&gt;3.窗外的雾气&lt;/div&gt;&lt;div&gt;4.有人在洗澡&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1830" y="190" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-40" value="婴儿不见了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2028" y="73" width="80" height="80" as="geometry" />
+        <mxCell id="4QU-CMID9YgoORd0-7aX-40" value="④婴儿不见了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="-115" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-42" value="为什么不在停电的时候作案？&lt;div&gt;停电的时候很多人出来查看，无法作案&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2110" y="300" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-43" value="老妈不见了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-43" value="⑦老妈不见了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="565" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-47" value="疑问点解释" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2130" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-48" value="煮开的热水" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1330" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-51" target="4QU-CMID9YgoORd0-7aX-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="1285" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-51" value="忽然&lt;div&gt;停电&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="705" y="1260" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-57" target="4QU-CMID9YgoORd0-7aX-9">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-48" target="4QU-CMID9YgoORd0-7aX-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-57" value="忽然&lt;div&gt;停电&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-48" value="⑨雾气" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-51" value="③忽然&lt;div&gt;停电&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="705" y="1260" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-57" value="③忽然&lt;div&gt;停电&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="670" y="560" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-69" value="插头被人拔掉了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-69" value="⑩插头被人拔掉了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1290" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-75" value="婴儿车&lt;div&gt;走过&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="1704" width="50" height="50" as="geometry" />
+        <mxCell id="4QU-CMID9YgoORd0-7aX-75" value="①①婴儿车&lt;div&gt;走过&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1690" width="75" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-77" value="婴儿再次车&lt;span style=&quot;background-color: transparent;&quot;&gt;走过&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-77" value="①③婴儿再次车&lt;span style=&quot;background-color: transparent;&quot;&gt;走过&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1095" y="1680" width="70" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-79" value="维修人员来了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-79" target="4QU-CMID9YgoORd0-7aX-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-79" value="①②维修人员来了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="892.5" y="1690" width="75" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-81" value="维修人员走了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-81" value="①④维修人员走了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1292.5" y="1690" width="75" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-83" value="无人走过" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-83" value="①⑤无人走过" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="692.5" y="2050" width="75" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-85" value="维修人员经过门口" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="2050" width="75" height="74" as="geometry" />
+        <mxCell id="4QU-CMID9YgoORd0-7aX-85" value="①⑥维修人员&lt;div&gt;经过门口&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1872.5" y="2035" width="85" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-87" value="女子经过门口" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-87" value="①⑦女子经过&lt;div&gt;门口&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1993" y="2040" width="75" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-89" value="忽然&lt;div&gt;停电&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="705" y="2360" width="50" height="50" as="geometry" />
+        <mxCell id="4QU-CMID9YgoORd0-7aX-89" value="③忽然&lt;div&gt;停电&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="705" y="2420" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-93" value="维修员离开" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1092.5" y="2350" width="75" height="74" as="geometry" />
+        <mxCell id="4QU-CMID9YgoORd0-7aX-93" value="①⑧维修员离开" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1092.5" y="2410" width="75" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-95" value="无人出现" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="2350" width="75" height="74" as="geometry" />
+        <mxCell id="4QU-CMID9YgoORd0-7aX-95" value="①⑨无人出现" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1492" y="2410" width="75" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-98" value="出现一只猫" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="2740" width="75" height="74" as="geometry" />
+        <mxCell id="4QU-CMID9YgoORd0-7aX-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-98" target="4QU-CMID9YgoORd0-7aX-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-98" value="②⑩出现一只猫" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="2768" width="75" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-103" value="&lt;ul&gt;&lt;li&gt;猫去哪儿了？&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;上楼&lt;/li&gt;&lt;li&gt;下楼&lt;/li&gt;&lt;li&gt;跳窗&lt;/li&gt;&lt;li&gt;钻进了耗子洞&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="2760" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-105" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;维修人员来做什么？&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;修电表&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;查水表&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;燃气检修&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;其他任务&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1680" width="170" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-108" value="③忽然&lt;div&gt;停电&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="705" y="890" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-113" value="&lt;ul&gt;&lt;li&gt;哪来的雾气？&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;抽烟&lt;/li&gt;&lt;li&gt;烧开水&lt;/li&gt;&lt;li&gt;淋浴&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1200" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
