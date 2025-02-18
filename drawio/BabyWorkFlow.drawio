@@ -79,6 +79,16 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-17" target="4QU-CMID9YgoORd0-7aX-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-17" target="4QU-CMID9YgoORd0-7aX-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="40" />
+              <mxPoint x="670" y="40" />
+              <mxPoint x="670" y="23" />
+              <mxPoint x="810" y="23" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-17" value="哄婴儿，倒计时" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -93,6 +103,15 @@
             <Array as="points">
               <mxPoint x="530" y="10" />
               <mxPoint x="330" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-19" target="4QU-CMID9YgoORd0-7aX-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" />
+              <mxPoint x="650" />
+              <mxPoint x="650" y="-75" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1087,10 +1106,10 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-14" target="4QU-CMID9YgoORd0-7aX-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-14" value="①倒计时牌子" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-14" value="①倒计时牌子&lt;div&gt;距离高考&lt;/div&gt;&lt;div&gt;6848天&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="-110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-16" value="&lt;ul&gt;&lt;li&gt;婴儿出生多久了&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;不到一个月&lt;/li&gt;&lt;li&gt;一百天左右&lt;/li&gt;&lt;li&gt;三个月&lt;/li&gt;&lt;li style=&quot;&quot;&gt;一岁多&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-16" value="&lt;ul&gt;&lt;li&gt;婴儿出生多久了&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;一周左右&lt;/li&gt;&lt;li&gt;一个月左右&lt;/li&gt;&lt;li&gt;三个月&lt;/li&gt;&lt;li style=&quot;&quot;&gt;一岁多&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="465" y="-115" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-18" target="4QU-CMID9YgoORd0-7aX-19">
@@ -1229,6 +1248,15 @@
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-132" value="可选场景&lt;div&gt;但与必选冲突无法选中&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="560" y="-240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-133" target="4QU-CMID9YgoORd0-7aX-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-133" value="②①房间里贴着黄符纸" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-115" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QU-CMID9YgoORd0-7aX-136" value="&lt;ul&gt;&lt;li&gt;为什么要贴符纸&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;风俗&lt;/li&gt;&lt;li&gt;驱鬼&lt;/li&gt;&lt;li&gt;辟邪&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-205" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
