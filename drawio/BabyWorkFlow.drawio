@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" version="26.0.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" version="26.0.10">
   <diagram name="第 1 页" id="StYRfDDTk3oZJzetcUu_">
-    <mxGraphModel dx="2533" dy="2528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="2264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,7 +163,7 @@
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-42" target="yhZVjly_XVNJ5S8H_ek6-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#000000;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-42" target="qDyF1LfpPGuYEzIbA-aY-24">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#000000;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-42" target="qDyF1LfpPGuYEzIbA-aY-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-42" value="恢复，女人睡着了" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -172,7 +172,7 @@
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-44" target="yhZVjly_XVNJ5S8H_ek6-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-44" target="4QU-CMID9YgoORd0-7aX-36">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-44" target="4QU-CMID9YgoORd0-7aX-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1330" y="330" />
@@ -397,7 +397,7 @@
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-119" target="yhZVjly_XVNJ5S8H_ek6-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhZVjly_XVNJ5S8H_ek6-119" target="qDyF1LfpPGuYEzIbA-aY-7">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-119" target="qDyF1LfpPGuYEzIbA-aY-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-119" value="老妈坐着抽烟，&lt;div&gt;偶尔看表&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -457,7 +457,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yhZVjly_XVNJ5S8H_ek6-130" target="4QU-CMID9YgoORd0-7aX-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="1370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yhZVjly_XVNJ5S8H_ek6-130" value="煮开的热水，开始停电" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="470" y="1480" width="120" height="60" as="geometry" />
@@ -908,8 +912,12 @@
         <mxCell id="XoiqX6V9MMiwxOYiTmVM-35" value="0:08" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1890" y="18" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XoiqX6V9MMiwxOYiTmVM-36" target="4QU-CMID9YgoORd0-7aX-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4QU-CMID9YgoORd0-7aX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XoiqX6V9MMiwxOYiTmVM-36" target="4QU-CMID9YgoORd0-7aX-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2010" y="110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XoiqX6V9MMiwxOYiTmVM-36" value="nanny come&lt;div&gt;righting the camera&lt;/div&gt;&lt;div&gt;baby disappear&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1855" y="80" width="120" height="60" as="geometry" />
@@ -917,7 +925,7 @@
         <mxCell id="XoiqX6V9MMiwxOYiTmVM-37" value="TV Open&lt;div&gt;Sleeping&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1855" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XoiqX6V9MMiwxOYiTmVM-38" target="4QU-CMID9YgoORd0-7aX-43">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XoiqX6V9MMiwxOYiTmVM-38" target="4QU-CMID9YgoORd0-7aX-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1915" y="605" />
@@ -968,10 +976,10 @@
         <mxCell id="XoiqX6V9MMiwxOYiTmVM-54" value="婴儿车走过" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1070" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XoiqX6V9MMiwxOYiTmVM-55" target="4QU-CMID9YgoORd0-7aX-40" edge="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XoiqX6V9MMiwxOYiTmVM-55" target="4QU-CMID9YgoORd0-7aX-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1730" y="-103" />
+              <mxPoint x="1730" y="-75" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1029,7 +1037,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-8" value="③忽然&lt;span style=&quot;background-color: transparent;&quot;&gt;停电&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;（所有停电的场景）&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="1242.5" y="-540" width="125" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-9" target="qDyF1LfpPGuYEzIbA-aY-38">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4QU-CMID9YgoORd0-7aX-9" target="qDyF1LfpPGuYEzIbA-aY-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-9" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;为什么会停电？&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;线路老化&lt;/li&gt;&lt;li&gt;楼房渗水&lt;/li&gt;&lt;li&gt;意外短路&lt;/li&gt;&lt;li&gt;恶意破坏&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
@@ -1041,7 +1049,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-14" value="①倒计时牌子&lt;div&gt;距离高考&lt;/div&gt;&lt;div&gt;6848天&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="-110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-16" target="qDyF1LfpPGuYEzIbA-aY-22">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4QU-CMID9YgoORd0-7aX-16" target="qDyF1LfpPGuYEzIbA-aY-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-16" value="&lt;ul&gt;&lt;li&gt;婴儿出生多久了&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;一周左右&lt;/li&gt;&lt;li&gt;一个月左右&lt;/li&gt;&lt;li&gt;三个月&lt;/li&gt;&lt;li style=&quot;&quot;&gt;一岁多&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
@@ -1053,7 +1061,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-18" value="⑤女人离开房间" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="485" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-19" target="qDyF1LfpPGuYEzIbA-aY-32">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4QU-CMID9YgoORd0-7aX-19" target="qDyF1LfpPGuYEzIbA-aY-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-19" value="&lt;ul&gt;&lt;li&gt;女人去干什么了？&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;拿快递&lt;/li&gt;&lt;li&gt;上厕所&lt;/li&gt;&lt;li&gt;哄孩子&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
@@ -1073,24 +1081,24 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-30" value="⑧&lt;span style=&quot;background-color: transparent;&quot;&gt;窗外的黑影是什么？&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1690" y="960" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-32" target="qDyF1LfpPGuYEzIbA-aY-20">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4QU-CMID9YgoORd0-7aX-32" target="qDyF1LfpPGuYEzIbA-aY-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-32" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;窗外的黑影是什么？&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;花盆&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;婴儿&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;乌云&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;练习册&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1645" y="810" width="170" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-36" target="4QU-CMID9YgoORd0-7aX-38">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4QU-CMID9YgoORd0-7aX-36" target="4QU-CMID9YgoORd0-7aX-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1730" y="235" />
+              <mxPoint x="1490" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-36" value="⑥烟雾" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1690" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="1450" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-38" value="烟雾哪儿来的？&lt;div&gt;1.催眠药粉&lt;/div&gt;&lt;div&gt;2.着火了&lt;/div&gt;&lt;div&gt;3.窗外的雾气&lt;/div&gt;&lt;div&gt;4.有人在洗澡&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1830" y="190" width="120" height="90" as="geometry" />
+          <mxGeometry x="1590" y="190" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-40" value="④婴儿不见了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1970" y="-115" width="80" height="80" as="geometry" />
@@ -1107,7 +1115,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4QU-CMID9YgoORd0-7aX-48" target="4QU-CMID9YgoORd0-7aX-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4QU-CMID9YgoORd0-7aX-48" value="⑨雾气" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4QU-CMID9YgoORd0-7aX-48" value="⑨雾气" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="290" y="1330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-69" value="⑩插头被人拔掉了" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
@@ -1146,17 +1154,17 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-98" value="②⑩猫上了楼梯" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="2768" width="75" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-105" target="qDyF1LfpPGuYEzIbA-aY-50">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4QU-CMID9YgoORd0-7aX-105" target="qDyF1LfpPGuYEzIbA-aY-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-105" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;维修人员来做什么？&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;修电表&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;查水表&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;燃气检修&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;其他任务&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="1680" width="170" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-113" target="qDyF1LfpPGuYEzIbA-aY-47">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4QU-CMID9YgoORd0-7aX-113" target="qDyF1LfpPGuYEzIbA-aY-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-113" value="&lt;ul&gt;&lt;li&gt;哪来的雾气？&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;抽烟&lt;/li&gt;&lt;li&gt;烧开水&lt;/li&gt;&lt;li&gt;淋浴&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="270" y="1200" width="150" height="90" as="geometry" />
+          <mxGeometry x="255" y="1200" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-115" value="①⑧出现一只猫" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1292.5" y="2870" width="75" height="74" as="geometry" />
@@ -1191,7 +1199,7 @@
         <mxCell id="4QU-CMID9YgoORd0-7aX-133" value="②①房间里贴着黄符纸&lt;div&gt;（所有显示婴儿房的场景）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1242.5" y="-400" width="140" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-136" target="qDyF1LfpPGuYEzIbA-aY-40">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4QU-CMID9YgoORd0-7aX-136" target="qDyF1LfpPGuYEzIbA-aY-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4QU-CMID9YgoORd0-7aX-136" value="&lt;ul&gt;&lt;li&gt;为什么要贴符纸&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;风俗&lt;/li&gt;&lt;li&gt;驱鬼&lt;/li&gt;&lt;li&gt;辟邪&lt;/li&gt;&lt;li&gt;招魂&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
@@ -1203,13 +1211,13 @@
         <mxCell id="LwB4s3kImtG9Zo6uWfpz-4" value="②②女人走向窗口" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="843" width="70" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwB4s3kImtG9Zo6uWfpz-6" target="qDyF1LfpPGuYEzIbA-aY-34">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LwB4s3kImtG9Zo6uWfpz-6" target="qDyF1LfpPGuYEzIbA-aY-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LwB4s3kImtG9Zo6uWfpz-6" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;女人为什么去窗口&lt;/span&gt;？&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;查看窗外情况&lt;/li&gt;&lt;li&gt;抱怨哭闹婴儿&lt;/li&gt;&lt;li&gt;抽烟&lt;/li&gt;&lt;li&gt;消气&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="255" y="940" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwB4s3kImtG9Zo6uWfpz-8" target="qDyF1LfpPGuYEzIbA-aY-52">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LwB4s3kImtG9Zo6uWfpz-8" target="qDyF1LfpPGuYEzIbA-aY-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LwB4s3kImtG9Zo6uWfpz-8" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;维修人员电话打给谁？&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;403的人&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;推婴儿车的女人&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;公司&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;高考生母亲&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -1221,106 +1229,184 @@
         <mxCell id="LwB4s3kImtG9Zo6uWfpz-13" value="多场景线索" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1152.5" y="-240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-1" target="4QU-CMID9YgoORd0-7aX-43">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qDyF1LfpPGuYEzIbA-aY-1" target="4QU-CMID9YgoORd0-7aX-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-1" target="qDyF1LfpPGuYEzIbA-aY-16">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qDyF1LfpPGuYEzIbA-aY-1" target="qDyF1LfpPGuYEzIbA-aY-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-1" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;老妈去哪儿了？&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;去找人修电表&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;出去散心&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;去倒垃圾&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;弄堂口抽烟&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-1" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;老妈去哪儿了？&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;去找人修电表&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;出去散心&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;去倒垃圾&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;弄堂口抽烟&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1660" y="482" width="170" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-7" value="②③老妈还在等待电工" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-7" value="②③老妈还在等待电工" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1882.5" y="2350" width="75" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-15" value="道具所需场景" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-15" value="道具所需场景" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="740" y="-240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-16" value="获得高考取消道具&lt;div&gt;（不用复习迎考，去修电表，避免了维修工破坏）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-16" target="sGsZPEIBjM_3dDUTgrE_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-16" value="获得高考取消道具&lt;div&gt;（不用复习迎考，去修电表，避免了维修工破坏）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1935" y="488.5" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-20" value="获得天眼通&lt;div&gt;（可以看到被金光咒庇佑的东西发光）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-20" target="sGsZPEIBjM_3dDUTgrE_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-20" value="获得天眼通&lt;div&gt;（可以看到被金光咒庇佑的东西发光）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1920" y="816.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-22" value="获得超脑勋章" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-22" target="sGsZPEIBjM_3dDUTgrE_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-22" value="获得超脑勋章" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="692.5" y="-110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-24" value="②④女人不关心孩子却自己睡着了，说明不是母亲" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-24" value="②④女人不关心孩子却自己睡着了，说明不是母亲" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1072.5" y="513.5" width="115" height="111.5" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-26" target="qDyF1LfpPGuYEzIbA-aY-27">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qDyF1LfpPGuYEzIbA-aY-26" target="qDyF1LfpPGuYEzIbA-aY-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-26" value="②⑤墙上的遗像&lt;span style=&quot;background-color: transparent;&quot;&gt;（404客厅场景&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-26" value="②⑤墙上的遗像&lt;span style=&quot;background-color: transparent;&quot;&gt;（404客厅场景&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="1241" y="-700" width="125" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-27" target="qDyF1LfpPGuYEzIbA-aY-36">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qDyF1LfpPGuYEzIbA-aY-27" target="qDyF1LfpPGuYEzIbA-aY-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-27" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;遗像是谁的？&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;孩子妈妈&lt;/li&gt;&lt;li&gt;孩子爸爸&lt;/li&gt;&lt;li&gt;某个明星&lt;/li&gt;&lt;li&gt;孩子外婆&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-27" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;遗像是谁的？&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;孩子妈妈&lt;/li&gt;&lt;li&gt;孩子爸爸&lt;/li&gt;&lt;li&gt;某个明星&lt;/li&gt;&lt;li&gt;孩子外婆&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1425" y="-680" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-30" value="②⑥墙上的结婚照&lt;span style=&quot;background-color: transparent;&quot;&gt;（404客厅场景&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-30" value="②⑥墙上的结婚照&lt;span style=&quot;background-color: transparent;&quot;&gt;（404客厅场景&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="1241" y="-860" width="125" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-32" value="得到安睡丸" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="500" y="580" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-34" value="静心口服液" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="495" y="945" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-36" value="获得亡灵卡，让孩子妈妈到处飘荡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="-675" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-38" value="获得保险丝" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1705" y="-515" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-40" value="获得金光符&lt;div&gt;（可以获得法师的保护）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="-367.5" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="qDyF1LfpPGuYEzIbA-aY-44" source="4QU-CMID9YgoORd0-7aX-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1950" y="235" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-44" value="获得小毛巾&lt;div&gt;（可以捂住口鼻防止被迷晕）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2045" y="195" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-45" value="得到&lt;div&gt;金牌月嫂勋章&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="470" y="260" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.043;entryY=0.509;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4QU-CMID9YgoORd0-7aX-6" target="qDyF1LfpPGuYEzIbA-aY-45">
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-32" target="sGsZPEIBjM_3dDUTgrE_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-47" value="得到灭火器" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-32" value="得到安睡丸" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="500" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-34" target="sGsZPEIBjM_3dDUTgrE_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-34" value="静心口服液" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="495" y="945" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-36" target="sGsZPEIBjM_3dDUTgrE_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-36" value="获得亡灵卡，让孩子妈妈到处飘荡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="-675" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-38" value="获得保险丝" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1705" y="-515" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-40" value="获得金光符&lt;div&gt;（可以获得法师的保护）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1700" y="-367.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4QU-CMID9YgoORd0-7aX-38" target="qDyF1LfpPGuYEzIbA-aY-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1710" y="235" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-44" target="sGsZPEIBjM_3dDUTgrE_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-44" value="获得小毛巾&lt;div&gt;（可以捂住口鼻防止被迷晕）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1805" y="195" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-45" target="sGsZPEIBjM_3dDUTgrE_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-45" value="得到&lt;div&gt;金牌月嫂勋章&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="470" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.043;entryY=0.509;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4QU-CMID9YgoORd0-7aX-6" target="qDyF1LfpPGuYEzIbA-aY-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-47" target="sGsZPEIBjM_3dDUTgrE_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-47" value="得到灭火器" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="495" y="1205" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-50" value="得到电子眼&lt;div&gt;（额外获得一个&lt;/div&gt;&lt;div&gt;监控目标）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-50" target="sGsZPEIBjM_3dDUTgrE_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-50" value="得到电子眼&lt;div&gt;（额外获得一个&lt;/div&gt;&lt;div&gt;监控目标）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="675" y="1560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-52" value="得到手机&lt;div&gt;（通知保姆）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDyF1LfpPGuYEzIbA-aY-52" target="sGsZPEIBjM_3dDUTgrE_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-52" value="得到手机&lt;div&gt;（通知保姆）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1650" y="1687" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-55" value="获得高考取消道具&lt;div&gt;（不用复习迎考，去修电表，避免了维修工破坏）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-55" value="获得高考取消道具&lt;div&gt;（不用复习迎考，去修电表，避免了维修工破坏）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" parent="1" vertex="1">
           <mxGeometry x="2280" y="1805" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-56" value="获得天眼通&lt;div&gt;（可以看到被金光咒庇佑的东西发光）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-56" value="获得天眼通&lt;div&gt;（可以看到被金光咒庇佑的东西发光）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" parent="1" vertex="1">
           <mxGeometry x="2985" y="1805" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-57" value="获得保险丝" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-57" value="获得保险丝" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" parent="1" vertex="1">
           <mxGeometry x="2495" y="1805" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-58" value="获得金光符&lt;div&gt;（可以获得法师的保护）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-58" value="获得金光符&lt;div&gt;（可以获得法师的保护）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" parent="1" vertex="1">
           <mxGeometry x="2665" y="1805" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-59" value="获得小毛巾&lt;div&gt;（可以捂住口鼻防止被迷晕）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-59" value="获得小毛巾&lt;div&gt;（可以捂住口鼻防止被迷晕）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" parent="1" vertex="1">
           <mxGeometry x="2827.25" y="1805" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-60" value="得到手机&lt;div&gt;（通知保姆）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-60" value="得到手机&lt;div&gt;（通知保姆）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" parent="1" vertex="1">
           <mxGeometry x="3135" y="1805" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qDyF1LfpPGuYEzIbA-aY-61" value="&lt;div&gt;破解案件方式：&lt;/div&gt;让小男孩不用高考，给他保险丝去修电表，电表不坏，保姆就不会睡着，发现地上烟雾可以用小毛巾避免被迷晕，当403作案时，通知保姆，让保姆去隔壁查看，保姆呼叫，吸引法师注意。&lt;div&gt;法师有天眼通，小孩有金光符，法师看到窗外的小孩，追上女人，夺回小孩。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;container=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="qDyF1LfpPGuYEzIbA-aY-61" value="&lt;div&gt;破解案件方式：&lt;/div&gt;让小男孩不用高考，给他保险丝去修电表，电表不坏，保姆就不会睡着，发现地上烟雾可以用小毛巾避免被迷晕，当403作案时，通知保姆，让保姆去隔壁查看，保姆呼叫，吸引法师注意。&lt;div&gt;法师有天眼通，小孩有金光符，法师看到窗外的小孩，追上女人，夺回小孩。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;container=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2280" y="1690" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-1" value="&lt;div&gt;根据时间计算，高考时间为2044年6月7日，说明婴儿是2025年9月1日以后出生，根据监控上的时间可以判断婴儿出生时间不到一周&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-115" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-3" value="问题解析" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-4" value="&lt;div&gt;排除法：&lt;/div&gt;&lt;div&gt;2.根据女子年龄判断不可能是外婆，&lt;/div&gt;&lt;div&gt;3.根据线索②⑤，说明遗像上才是孩子的亲生母亲。&lt;/div&gt;&lt;div&gt;4.根据其他线索可知孩子刚出生，所以不可能是后妈。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="692.5" y="252" width="287.5" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-6" value="&lt;div&gt;根据线索②可知女人是去哄孩子了。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="710" y="573" width="200" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-8" value="&lt;div&gt;根据女人说的话，可知女人是对隔壁孩子哭闹不满。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="675" y="937" width="200" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-10" value="&lt;div&gt;根据现场环境可知，房内正在烧热水&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="677.5" y="1195" width="135" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-12" value="&lt;div&gt;根据线索③可知，维修工是来修电表的&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="845" y="1552.5" width="135" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-14" value="&lt;div&gt;根据其他线索综合判断维修人员是绑架犯的同谋之一，此时打电话最大的可能是通知主犯实施犯罪。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1822.5" y="1679.5" width="135" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-16" value="&lt;div&gt;根据线索①⑦可知，窗外是被绑架的婴儿&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="945" width="135" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-18" value="&lt;div&gt;根据线索①④可知，此时罪犯开始实施犯罪，雾气很可能是主犯释放的迷幻药，用来迷晕月嫂以顺利实施犯罪的&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="187.5" width="135" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-20" value="&lt;div&gt;根据线索①⑤，②③可知，老妈是去小区门口等待维修工。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="595" width="135" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-22" value="&lt;div&gt;排除法：&lt;/div&gt;&lt;div&gt;2.女的&lt;/div&gt;&lt;div&gt;3.家里不会放无关人员的遗像&lt;/div&gt;&lt;div&gt;4.年龄不符&lt;/div&gt;&lt;div&gt;加上遗像上女子容貌和发型与结婚照相符，说明就是孩子母亲&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1905" y="-687.5" width="185" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-24" value="&lt;div&gt;根据线索⑨和线索⑩判断，停电是有人故意干烧电热水壶制造线路过载。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1905" y="-515" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-25" value="②⑦一个道士在做法&lt;span style=&quot;background-color: transparent;&quot;&gt;（304到时房场景&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="-1020" width="125" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sGsZPEIBjM_3dDUTgrE_-26" value="&lt;div&gt;根据线索②⑦，②⑤，①，综合判断这个孩子可能是鬼胎，所以屋内贴满符纸，并且楼下有道士驱鬼&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="-377.5" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
