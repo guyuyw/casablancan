@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36" version="26.2.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="StYRfDDTk3oZJzetcUu_">
-    <mxGraphModel dx="2020" dy="2269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2018" dy="2269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1862,6 +1862,9 @@
         </mxCell>
         <mxCell id="yztiK3_ErXqz9TlhFnVp-22" value="&lt;div&gt;猫来了&lt;/div&gt;&lt;div&gt;猫上楼&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="70" y="3060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jUqcMoomZfBeKUVVhqBm-1" value="6月7日后续：&lt;div&gt;1.把所有场景摆放到相应位置&lt;/div&gt;&lt;div&gt;2.设置序列启动时间。&lt;/div&gt;&lt;div&gt;3.在Gamestate中设置线索发现变量。&lt;/div&gt;&lt;div&gt;4.调整选择场景ui&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-1060" width="510" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
