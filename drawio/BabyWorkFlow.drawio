@@ -1863,7 +1863,7 @@
         <mxCell id="yztiK3_ErXqz9TlhFnVp-22" value="&lt;div&gt;猫来了&lt;/div&gt;&lt;div&gt;猫上楼&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="70" y="3060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jUqcMoomZfBeKUVVhqBm-1" value="6月7日后续：&lt;div&gt;1.把所有场景摆放到相应位置&lt;/div&gt;&lt;div&gt;2.设置序列启动时间。&lt;/div&gt;&lt;div&gt;3.在Gamestate中设置线索发现变量。&lt;/div&gt;&lt;div&gt;4.调整选择场景ui&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="jUqcMoomZfBeKUVVhqBm-1" value="6月7日后续：&lt;div&gt;1.把所有场景摆放到相应位置&lt;/div&gt;&lt;div&gt;2.设置序列启动时间。&lt;/div&gt;&lt;div&gt;3.在Gamestate中设置线索发现变量。&lt;/div&gt;&lt;div&gt;4.调整选择场景ui&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;spacingLeft=10;spacingTop=10;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="130" y="-1060" width="510" height="340" as="geometry" />
         </mxCell>
       </root>
